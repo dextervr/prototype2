@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/proto2unit.unity
+  isLoaded: 1
+  isActive: 1
